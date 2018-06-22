@@ -1,0 +1,11 @@
+*~
+*.swp
+tmp/
+npm-debug.log
+.DS_Store
+mock/
+dump/
+node_modules/
+.env
+
+yarn-error.log
